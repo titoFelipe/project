@@ -1,0 +1,9 @@
+We'll code an application that will be able to do the following:
+
+1. Deposit money
+2. Show the balance of the users account
+3. Withdraw money 
+4. Reject a withdraw transaction if the amount trying to withdraw is bigger than the current balance
+
+Note: Remember that we need to update the balance after each transaction (withdraw/deposit)
+Note: Try to make your code nice and easy to maintain, so that it will be easier to extend our application, if we decide to add more features
